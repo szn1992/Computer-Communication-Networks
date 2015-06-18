@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+
+javac Tor61.java
+java Tor61 $1 $2 $3
